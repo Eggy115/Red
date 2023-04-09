@@ -27,6 +27,8 @@ Once you've cloned the repository, navigate to the relevant folder and run the p
 red program.red
 ```
 
+The Red compiler will compile your program and generate an executable file with the same name as your program. You can run the executable file by typing `./program` in the terminal or command prompt.
+
 ## Contributing
 
 If you'd like to contribute to this repository, feel free to submit a pull request. Before submitting a pull request, please ensure that your code is well-documented and adheres to the [Contributing](./CONTRIBUTING.md).
